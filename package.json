@@ -1,6 +1,6 @@
 {
   "name": "browser-controll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Control Safari, Chrome, and Firefox on macOS using Node.js + AppleScript.",
   "main": "index.js",
   "type": "module",
