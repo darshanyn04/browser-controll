@@ -1,0 +1,12 @@
+{
+  "name": "browser-controll",
+  "version": "1.0.0",
+  "description": "Control browsers on macOS using Node.js + AppleScript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "browser-controll": "./cli.js"
+  },
+  "author": "Darshan",
+  "license": "MIT"
+}
