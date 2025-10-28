@@ -1,12 +1,28 @@
 {
   "name": "browser-controll",
   "version": "1.0.0",
-  "description": "Control browsers on macOS using Node.js + AppleScript",
+  "description": "Control Safari, Chrome, and Firefox on macOS using Node.js + AppleScript.",
   "main": "index.js",
   "type": "module",
   "bin": {
     "browser-controll": "./cli.js"
   },
-  "author": "Darshan",
-  "license": "MIT"
+  "author": "Darshan N <darshanynvfx@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darshanyn04/browser-controll.git"
+  },
+  "homepage": "https://github.com/darshanyn04/browser-controll#readme",
+  "keywords": [
+    "browser",
+    "safari",
+    "chrome",
+    "firefox",
+    "macos",
+    "osascript",
+    "automation",
+    "nodejs",
+    "cli"
+  ]
 }
